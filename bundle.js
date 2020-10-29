@@ -1,0 +1,17 @@
+/*
+ * ATTENTION: The "eval" devtool has been used (maybe by default in mode: "development").
+ * This devtool is not neither made for production nor for readable output files.
+ * It uses "eval()" calls to create a separate source file in the browser devtools.
+ * If you are trying to read the output file, select a different devtool (https://webpack.js.org/configuration/devtool/)
+ * or disable the default devtool with "devtool: false".
+ * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
+ */
+/******/ (() => { // webpackBootstrap
+/*!*****************!*\
+  !*** ./main.js ***!
+  \*****************/
+/*! unknown exports (runtime-defined) */
+/*! runtime requirements:  */
+eval("throw new Error(\"Module build failed (from ./node_modules/babel-loader/lib/index.js):\\nSyntaxError: /home/leoncio/Desenvolvimento/workspaces/estudos_workspace/rocketseat/ecmascript-starter/main.js: Identifier 'soma' has already been declared (70:12)\\n\\n\\u001b[0m \\u001b[90m 68 | \\u001b[39m   console\\u001b[33m.\\u001b[39mlog(y)\\u001b[0m\\n\\u001b[0m \\u001b[90m 69 | \\u001b[39m\\u001b[0m\\n\\u001b[0m\\u001b[31m\\u001b[1m>\\u001b[22m\\u001b[39m\\u001b[90m 70 | \\u001b[39m   \\u001b[36mfunction\\u001b[39m soma(\\u001b[33m...\\u001b[39mparams) {\\u001b[0m\\n\\u001b[0m \\u001b[90m    | \\u001b[39m            \\u001b[31m\\u001b[1m^\\u001b[22m\\u001b[39m\\u001b[0m\\n\\u001b[0m \\u001b[90m 71 | \\u001b[39m      \\u001b[36mreturn\\u001b[39m  params\\u001b[33m.\\u001b[39mreduce((total\\u001b[33m,\\u001b[39m item) \\u001b[33m=>\\u001b[39m total \\u001b[33m+\\u001b[39m item)\\u001b[0m\\n\\u001b[0m \\u001b[90m 72 | \\u001b[39m   }\\u001b[0m\\n\\u001b[0m \\u001b[90m 73 | \\u001b[39m\\u001b[0m\\n    at Parser._raise (/home/leoncio/Desenvolvimento/workspaces/estudos_workspace/rocketseat/ecmascript-starter/node_modules/@babel/parser/lib/index.js:799:17)\\n    at Parser.raiseWithData (/home/leoncio/Desenvolvimento/workspaces/estudos_workspace/rocketseat/ecmascript-starter/node_modules/@babel/parser/lib/index.js:792:17)\\n    at Parser.raise (/home/leoncio/Desenvolvimento/workspaces/estudos_workspace/rocketseat/ecmascript-starter/node_modules/@babel/parser/lib/index.js:786:17)\\n    at ScopeHandler.checkRedeclarationInScope (/home/leoncio/Desenvolvimento/workspaces/estudos_workspace/rocketseat/ecmascript-starter/node_modules/@babel/parser/lib/index.js:4906:12)\\n    at ScopeHandler.declareName (/home/leoncio/Desenvolvimento/workspaces/estudos_workspace/rocketseat/ecmascript-starter/node_modules/@babel/parser/lib/index.js:4872:12)\\n    at Parser.registerFunctionStatementId (/home/leoncio/Desenvolvimento/workspaces/estudos_workspace/rocketseat/ecmascript-starter/node_modules/@babel/parser/lib/index.js:12329:16)\\n    at Parser.parseFunction (/home/leoncio/Desenvolvimento/workspaces/estudos_workspace/rocketseat/ecmascript-starter/node_modules/@babel/parser/lib/index.js:12305:12)\\n    at Parser.parseFunctionStatement (/home/leoncio/Desenvolvimento/workspaces/estudos_workspace/rocketseat/ecmascript-starter/node_modules/@babel/parser/lib/index.js:11925:17)\\n    at Parser.parseStatementContent (/home/leoncio/Desenvolvimento/workspaces/estudos_workspace/rocketseat/ecmascript-starter/node_modules/@babel/parser/lib/index.js:11615:21)\\n    at Parser.parseStatement (/home/leoncio/Desenvolvimento/workspaces/estudos_workspace/rocketseat/ecmascript-starter/node_modules/@babel/parser/lib/index.js:11577:17)\");\n\n//# sourceURL=webpack://ecmascript-starter/./main.js?");
+/******/ })()
+;
